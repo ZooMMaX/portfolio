@@ -1,12 +1,13 @@
 
 | ![photo](https://raw.githubusercontent.com/ZooMMaX/portfolio/main/iam.png) | |
-|--|--|
+|:--:|:--:|
 | ФИО: | Филатов Юрий Михайлович |
 | Место рождения: | г. Москва |
 | Дата рождения: | 4 декабря 1989 г. |
 | № тел. | +7 999 095 07 42<br>+7 905 716 66 17 |
 | Email | zoommax2009@gmail.com |
 | GitHub | https://github.com/ZooMMaX |
+| Портфолио в виде приложения | [Скачать из github релизов](https://github.com/ZooMMaX/portfolio/releases/download/1.0/portfolio.setup.exe)
 
 ---
 
