@@ -42,7 +42,7 @@
 ---
 
 #### Последнее место работы
-|  ![cdek logo](https://github.com/ZooMMaX/portfolio/blob/main/cdek.png)| ООО "СДЭК-ГЛОБАЛ" | https://www.cdek.ru/ |
+|  ![cdek logo](https://github.com/ZooMMaX/portfolio/blob/main/cdek.png?raw=true)| ООО "СДЭК-ГЛОБАЛ" | https://www.cdek.ru/ |
 |--|--|--|
 | Локальное подразделение | ООО "РОСТОВСКАЯ И ПАРТНЕРЫ" | +7 (916) 686-53-03 |
 | Должность | Системный администратор |  |
